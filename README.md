@@ -1,4 +1,4 @@
-# some_extensions_of_lasso
+# lasso_extensions
 
 ## English description
 
