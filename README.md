@@ -1,0 +1,2 @@
+# some_extensions_of_lasso
+This repository contains the project for the course Statistical Methods of High Dimensional Data. We needed to replicate the simulation study presented in Laurent et al. [2009](https://dl.acm.org/doi/pdf/10.1145/1553374.1553431?casa_token=q0cqNqvBgU8AAAAA:3UqYS8uH6Z4OEYBHWctGsPv7lS0S748lov5D4B-u4SmGt9WcF9lFwTdVwRYfdDmmHZvdSpbxS08), as well as the simulation study and the real data application presented in Lim &amp; Hastie [2014](https://hastie.su.domains/Papers/glinternet_jcgs.pdf).
