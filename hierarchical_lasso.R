@@ -81,7 +81,7 @@ myplot
 library(tidyverse)
 library(pROC)
 
-spam <- read.table("./spambase/spambase.data", header = F, sep = ",")
+spam <- read.table("./spambase/spambase.data", header = F, sep = ",") # Spambase data taken from the UCI Machine Learning Repository
 spam <- spam %>% rename(y = V58)
 spam[,-58] <- apply(spam[,-58], 2, function(x) log(1+x))
 
